@@ -12,8 +12,9 @@ import com.seungho.android.myapplication.lostarkclass.utills.DATABASE_NAME
 import com.seungho.android.myapplication.lostarkclass.worker.ClassDatabaseWorker
 
 
-@Database(entities = [Classs::class], version = 1, exportSchema = false)
+@Database(entities = [SaveClass::class ,Classs::class], version = 1, exportSchema = false)
 abstract class AppDatabase : RoomDatabase() {
+    abstract fun saveClassDao() : SaveClassDao
     abstract fun classDao(): ClassDao
 
     companion object {

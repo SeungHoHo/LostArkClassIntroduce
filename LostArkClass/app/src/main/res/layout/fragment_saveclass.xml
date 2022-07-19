@@ -5,7 +5,7 @@
     <data>
 
         <variable
-            name="hasClass"
+            name="hasClasss"
             type="boolean" />
 
     </data>
@@ -13,26 +13,46 @@
 
     <FrameLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        tools:context=".SaveClassFragment">
+        android:background="@color/black"
+        android:layout_height="match_parent">
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/save_class_list"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginStart="12dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="12dp"
+            android:layout_marginBottom="20dp"
+            android:clipToPadding="false"
+            app:isGone="@{!hasClasss}"
+            app:layoutManager="androidx.recyclerview.widget.StaggeredGridLayoutManager"
+            app:spanCount="2"
+            tools:listitem="@layout/list_item_save_class" />
+
 
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:gravity="center"
-            android:orientation="vertical">
+            android:orientation="vertical"
+            app:isGone="@{hasClasss}">
 
             <TextView
                 android:id="@+id/empty_class_textView"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="저장된 직업이 없습니다"
+                android:textColor="@color/white"
+                android:textStyle="bold"
                 android:textAppearance="?attr/textAppearanceHeadline5" />
 
             <com.google.android.material.button.MaterialButton
                 android:id="@+id/btn_add_class"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:textStyle="bold"
                 android:backgroundTint="?attr/colorSecondary"
                 android:text="직업 추가하기"
                 app:shapeAppearance="@style/ShapeAppearance.Material3.MediumComponent" />
@@ -40,6 +60,6 @@
 
         </LinearLayout>
 
-
     </FrameLayout>
+
 </layout>

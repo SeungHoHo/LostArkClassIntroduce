@@ -18,7 +18,7 @@ class HomeViewPagerFragment: Fragment() {
         inflater: LayoutInflater,
         container: ViewGroup?,
         savedInstanceState: Bundle?
-    ): View? {
+    ): View {
         val binding = FragmentViewPagerBinding.inflate(inflater, container, false)
         val tabLayout = binding.tabs
         val viewPager = binding.viewPager
@@ -27,7 +27,7 @@ class HomeViewPagerFragment: Fragment() {
 
         TabLayoutMediator(tabLayout, viewPager) { tab, position ->
             tab.setIcon(getTabIcon(position))
-            tab.text = getTabeTitle(position)
+            tab.text = getTabTitle(position)
         }.attach()
 
         (activity as AppCompatActivity).setSupportActionBar(binding.toolbar)
@@ -43,7 +43,7 @@ class HomeViewPagerFragment: Fragment() {
         }
     }
 
-    private fun getTabeTitle(position: Int): String? {
+    private fun getTabTitle(position: Int): String? {
         return when (position) {
             SAVE_CLASS_PAGE_INDEX -> "Save Class"
             CLASS_LIST_PAGE_INDEX -> "Class List"

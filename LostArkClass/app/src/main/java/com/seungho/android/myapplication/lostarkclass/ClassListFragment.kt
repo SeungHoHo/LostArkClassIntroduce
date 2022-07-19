@@ -20,7 +20,7 @@ class ClassListFragment : Fragment() {
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
-    ): View? {
+    ): View {
         val binding = FragmentClasslistBinding.inflate(inflater, container, false)
         context ?: return binding.root
 

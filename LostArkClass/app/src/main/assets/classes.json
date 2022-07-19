@@ -5,9 +5,10 @@
     "description": "디스트로이어는 느리지만 강력한 한방이 있는 근거리 클래스입니다. 기동성이 부족하지만 육중한 그라비티 해머를 자유자재로 다루며 적들에게 위협적인 공격을 가하게 됩니다. 단단하고, 무자비한 공격성으로 적들을 시원시원하게 쓸어버리며, 전장을 공포의 도가니로 만들어 버릴 수 있습니다.",
     "identity": "중력 제어 시스템",
     "weapon": "그라비티 해머",
-    "classImageUrl": "https://w.namu.la/s/c2d33693f94e4a791249eeb2a7e355b5aa22ac33e1668abab598bb186bfbb67999e2652e1c38f560dea2b4f3a202dcd9e84dfbe62e419943f6d641ed83a01eb98b7f0500eddc0b359550d24e4f6c3baf9daa5361a53eb906befa4e190c3b2b2f071502cb1fa165bd6a2132d90cd29909",
-    "classLogoUrl": "https://w.namu.la/s/72db2f25638202d74481301302c31dcfceb166995ae3c8f6aa8928db942508fc444996ff43728a24e37bc12761fd6e9fcdb2e046ee1b357bed37da5f72e791b857fdaa33fc6dbc66ab4df5cf251d30ffed1993d233e68492c0ea0b5f71da1fcf",
-    "affiliationUrl": "https://w.namu.la/s/31c32b15693eae4e001b1131519019ebc4356f71686c6d40d47abf3b4e4f8a285cbafdb52f84b4ffe6b36f5e3f686461c517b8b211773337f9a45f0b53a3ccb2a981962af567cb01542b17f673c038e32e9f12eabcd616873335b5cd771415a8"
+    "classImageUrl": "https://cdn-lostark.game.onstove.com/uploadfiles/banner/636391683346964891.jpg",
+    "classLogoUrl": "https://cdn-lostark.game.onstove.com/2018/obt/assets/images/common/thumb/emblem_destroyer.png",
+    "youtubeThumbUrl": "https://i.ytimg.com/vi/my1mlgjNXuQ/maxresdefault.jpg",
+    "youtubeUrl": "https://youtu.be/my1mlgjNXuQ"
   },
   {
     "classId": "a2",
@@ -15,9 +16,10 @@
     "description": "워로드는 높은 방어력과 생명력을 기반으로 전장의 선봉에서 아군을 지휘하고 보호하는 근접 클래스입니다. 거대한 방패를 이용한 다양한 방어기술은 강력한 적들의 공격을 피해 없이 막을 수 있으며, 건랜스를 이용한 창격 기술과 포격 기술은 단순하지만 강력한 힘을 발휘합니다. 또한, 적들의 시선을 끌고 파티원을 보호할 수 있는 기술을 가진 워로드는 파티원의 든든한 버팀목이자 전투의 리더입니다.",
     "identity": "방어태세 / 전장의 방패",
     "weapon": "방패 / 건랜스",
-    "classImageUrl": "https://w.namu.la/s/fcf80b9d12ef35a8079b4f9dcd03a6fbcffad7ff180c70ba0c402442385c94317b1a23fce0b5ad6850416cc58d258ee58257fef30c3848b8a789f028009fbe5bfb4946ada62e0f59e72f25541ecc370e1a91b2a0bb7470518c9cbc7e7a0e7e29dfec3adbb43200182780b47d587217f7",
-    "classLogoUrl": "https://w.namu.la/s/755a5637ae2242400830a3f6f5cd7276cc16f33b2adf133499f72a4b8c5fdbba4386d48faa601c5c33a6a653b8c76359354cd2edd35c2eecde4b1a973ce2e033efc87600b7e6be964758ea06e546fea1f21fc3fcb7dcce825bdc865204018daa",
-    "affiliationUrl": "https://w.namu.la/s/31c32b15693eae4e001b1131519019ebc4356f71686c6d40d47abf3b4e4f8a285cbafdb52f84b4ffe6b36f5e3f686461c517b8b211773337f9a45f0b53a3ccb2a981962af567cb01542b17f673c038e32e9f12eabcd616873335b5cd771415a8"
+    "classImageUrl": "https://cdn-lostark.game.onstove.com/uploadfiles/banner/636391680033149264.jpg",
+    "classLogoUrl": "https://cdn-lostark.game.onstove.com/2018/obt/assets/images/common/thumb/emblem_warlord.png",
+    "youtubeThumbUrl": "https://i.ytimg.com/vi/SVSsylTeCp8/maxresdefault.jpg",
+    "youtubeUrl": "https://youtu.be/SVSsylTeCp8"
   },
   {
     "classId": "a3",
@@ -25,9 +27,10 @@
     "description": "거대한 양손 대검을 들고 전장을 휘젓는 전형적인 근접 전사입니다. 대검을 사용한 넓은 판정 영역과 높은 방어력으로, 전 클래스를 통틀어 공수의 밸런스가 가장 안정적인 클래스이기도 합니다. 고유 능력으로는 폭주 모드가 있으며, 폭주 모드를 활용하면 전장을 순식간에 뒤집을 수 있는 엄청난 잠재력도 지니고 있는 강력한 클래스입니다.",
     "identity": "폭주 모드",
     "weapon": "대검",
-    "classImageUrl": "https://w.namu.la/s/a075dc3bfbc3747c0eaa5b53fe133a867547a9c8d20cb3149786317449fb3b022b826de925db64e4c8de325ca5e7cfe82341cd6ef6a2a26b12bd83e10801c14aa6c2a5f37917d070b9f76d2b236b46db50e05d67537282d1702b4f11045734a30d880e19ce11910952e8818c14412933",
-    "classLogoUrl": "https://w.namu.la/s/f9cc43375199cbf09af605339afe1cd6902af87a83017632cce64e69ab5edea5db97a4b2819c0393bec2f7b2d8a7bcfa0ab58bc413927202d07b4e911bfd6770025bd6902affe55e77547fc6234f74d7e0faf19252d87e592a84f083ac1f1cdf",
-    "affiliationUrl": "https://w.namu.la/s/31c32b15693eae4e001b1131519019ebc4356f71686c6d40d47abf3b4e4f8a285cbafdb52f84b4ffe6b36f5e3f686461c517b8b211773337f9a45f0b53a3ccb2a981962af567cb01542b17f673c038e32e9f12eabcd616873335b5cd771415a8"
+    "classImageUrl": "https://cdn-lostark.game.onstove.com/uploadfiles/banner/636391681276247563.jpg",
+    "classLogoUrl": "https://cdn-lostark.game.onstove.com/2018/obt/assets/images/common/thumb/emblem_berserker.png",
+    "youtubeThumbUrl": "https://i.ytimg.com/vi/nhhojUDEA_s/maxresdefault.jpg",
+    "youtubeUrl": "https://youtu.be/nhhojUDEA_s"
   },
   {
     "classId": "a4",
@@ -35,9 +38,10 @@
     "description": "홀리나이트는 신념의 검과 신앙의 힘을 사용하는 서포트형 클래스입니다. 성서를 이용한 신성 스킬 및 버프를 활용해 아군을 후방에서 지원하거나 검을 이용한 징벌 스킬들을 통해 전장의 선봉에 설 수 있습니다.",
     "identity": "신앙 게이지",
     "weapon": "한손검",
-    "classImageUrl": "https://w.namu.la/s/58f818ccde5c1534c95325db8cde9b5a2104b2d2ec2f89a519fdfe79ac99e0c489dc67095c06247ea1b445ff98e095b3fcbdc1a4ae07bb229843c2364bc1bfdd1506f77db73c93e0594a81bd5bff5499940ff955dc908d7012cbf71345ddba749e47aa8449873414ceef0c1f5d46f78a",
-    "classLogoUrl": "https://w.namu.la/s/b4e4c82c81ba7eadf956513717b6b067b7e01aa8304ff8f2fbfc67f9c2576abf825f64820da8b94025712dc091e9de2d96e86de2532c6f8e041b04346f8edb007f48785c06fd23baffc969bf6af6fd7fc691f1d8dff7dccc9af1807e8e313467",
-    "affiliationUrl": "https://w.namu.la/s/31c32b15693eae4e001b1131519019ebc4356f71686c6d40d47abf3b4e4f8a285cbafdb52f84b4ffe6b36f5e3f686461c517b8b211773337f9a45f0b53a3ccb2a981962af567cb01542b17f673c038e32e9f12eabcd616873335b5cd771415a8"
+    "classImageUrl": "https://cdn-lostark.game.onstove.com/uploadfiles/banner/e71e5714715a481c8696ec2f01fbea37.jpg",
+    "classLogoUrl": "https://cdn-lostark.game.onstove.com/2018/obt/assets/images/common/thumb/emblem_holyknight.png",
+    "youtubeThumbUrl": "https://i.ytimg.com/vi/xUnabf4SqG4/maxresdefault.jpg",
+    "youtubeUrl": "https://youtu.be/xUnabf4SqG4"
   },
   {
     "classId": "b1",
@@ -45,9 +49,10 @@
     "description": "전광석화와 같은 속도로 손발을 자유 자재로 사용하는 클래스입니다. 빠른 동작과 다양한 체술 공격을 두루 갖추고 있기 때문에 순식간에 적을 타격하여 띄운 후 화려한 공중 콤보를 이어 갈 수 있고, 기동성 좋은 스킬들을 다수 보유하고 있습니다. 또한 강력한 엘리멘탈 스킬들을 활용해 전장의 판도를 뒤집을 수 있습니다.",
     "identity": "엘리멘탈 버블",
     "weapon": "엘리멘탈 건틀렛",
-    "classImageUrl": "https://w.namu.la/s/dacdc5235b02f4c95b57be9c202013cd999d112cd5b8091c8cc0505243baad27eaf478518f717521327ae403e863cc333a1b49158b9e401c9fb95934c14cdff6ef77c147446f729b7030a509e44971b6394932270029af57f72b0469e3b86fc27dae562219c717bd12fbf978d9098a6a",
-    "classLogoUrl": "https://w.namu.la/s/a3ae01833348d596a2b926935f99ed4adb140b8d5cf024995851ae6daf68f183401ccb6bfdea9108b2c0fb31ab6a6fa3ff32f2087abac7176305111ee8c775c489c858eb54ab82fbe4c0ffe87f3c33b4ee6a1906eace96e5145739e2caf55490",
-    "affiliationUrl": "https://w.namu.la/s/63f744197cb3d04ed7819cf3cfcaf43d4203f7c4fabf32ad08c864f5cad4044103cefffaa6ff42a12e0da8cac9201453357f3fbcd4017be2f0ebf35b2be056967f0b7866dec16e29652e2d5548230d6a9137ef851cdcd0b23b9ea0d312d4e378"
+    "classImageUrl": "https://cdn-lostark.game.onstove.com/uploadfiles/banner/636391681921680547.jpg",
+    "classLogoUrl": "https://cdn-lostark.game.onstove.com/2018/obt/assets/images/common/thumb/emblem_battle_master.png",
+    "youtubeThumbUrl": "https://i.ytimg.com/vi/c4y8swxfnmI/maxresdefault.jpg",
+    "youtubeUrl": "https://youtu.be/c4y8swxfnmI"
   },
   {
     "classId": "b2",
@@ -55,9 +60,10 @@
     "description": "인파이터는 적들에게 파고드는 능력이 우수한 전형적인 근접 클래스입니다. 주 무기인 헤비 건틀렛을 이용한 묵직한 펀치로 적들을 몰아치는 공격이 가능합니다. 공격력과 방어력, 기동력이 전반적으로 모두 뛰어난 균형 잡힌 클래스로 전투 지속력 또한 우수하기 때문에 공수 양면에서 활약하는 모습을 기대해 볼 수 있습니다.",
     "identity": "기력 / 충격 에너지",
     "weapon": "헤비 건틀릿",
-    "classImageUrl": "https://w.namu.la/s/b8c73eccd51bc3ed2a0e6fcbc23869a27ca83a30e4b91b3c75230d547319f2b74a273817fc7c18348b2d6b2f91c24785c4e96843ef2ee7e5b1c0ebf4d3045b17ebac1b479c83e302464f26d9da7c6f4a5f56d337c98fa9b88516c79cd77157f59686fb2ea34cc06b22bd8f63f59ffd0f",
-    "classLogoUrl": "https://w.namu.la/s/8a04e73d53daa83d0b509a5d5162d5d77d1c3bba30e76acf595049b41dde2ee1bb2de25d3c8bb7ed97532d86821ab2f8829eeedf0e4edc5dd7d8b70bdcc1d2a2cccf989169fe0655266d00b7bf8dcb65a8ba2380fd9f37824a421ed8d558e905",
-    "affiliationUrl": "https://w.namu.la/s/63f744197cb3d04ed7819cf3cfcaf43d4203f7c4fabf32ad08c864f5cad4044103cefffaa6ff42a12e0da8cac9201453357f3fbcd4017be2f0ebf35b2be056967f0b7866dec16e29652e2d5548230d6a9137ef851cdcd0b23b9ea0d312d4e378"
+    "classImageUrl": "https://cdn-lostark.game.onstove.com/uploadfiles/banner/636391680434048639.jpg",
+    "classLogoUrl": "https://cdn-lostark.game.onstove.com/2018/obt/assets/images/common/thumb/emblem_infighter.png",
+    "youtubeThumbUrl": "https://i.ytimg.com/vi/erWE_64S6zQ/hqdefault.jpg",
+    "youtubeUrl": "https://youtu.be/erWE_64S6zQ"
   },
   {
     "classId": "b3",
@@ -65,9 +71,10 @@
     "description": "기공사는 내공을 사용하여 근접 및 원거리 공격을 다양하게 사용할 수 있는 중거리 클래스입니다. 장법을 이용한 근접 공격과 내공을 이용한 원거리 공격을 조합하여 순간적으로 폭발적인 공격을 퍼부을 수 있으며, 이러한 특징은 다양한 전장에서 실력을 발휘할 수 있게 만들어 줍니다.",
     "identity": "금강선공",
     "weapon": "기공패",
-    "classImageUrl": "https://w.namu.la/s/82a0f37bb98d9cc83a654d940f6b76bc19edac3b9f61fe8bf2f5304675d8762ef4efdde01c680df05dfd0f9a6844de27a0a977d178c046eb15b359336623a921910755ce3a779186ae734cf409cf887a337dc87188995e6abcf431f01c7bd95149b1f8b1690b304c14b446898d348c52",
-    "classLogoUrl": "https://w.namu.la/s/8ec73260952d0993442b2919cef8622f0a48eff3883d6736542f42c20946104b96594d3aaef63ea97a7f25dd1a764595203ea0c432340e0175dc60fa2102f4c038d874feccd872f807c6338158c8594932422531a09b84863ebbab9b23ac3d77",
-    "affiliationUrl": "https://w.namu.la/s/63f744197cb3d04ed7819cf3cfcaf43d4203f7c4fabf32ad08c864f5cad4044103cefffaa6ff42a12e0da8cac9201453357f3fbcd4017be2f0ebf35b2be056967f0b7866dec16e29652e2d5548230d6a9137ef851cdcd0b23b9ea0d312d4e378"
+    "classImageUrl": "https://cdn-lostark.game.onstove.com/uploadfiles/banner/636597237469719130.jpg",
+    "classLogoUrl": "https://cdn-lostark.game.onstove.com/2018/obt/assets/images/common/thumb/emblem_force_master.png",
+    "youtubeThumbUrl": "https://i.ytimg.com/vi/jhV2bsy5_U0/maxresdefault.jpg",
+    "youtubeUrl": "https://youtu.be/jhV2bsy5_U0"
   },
   {
     "classId": "b4",
@@ -75,9 +82,10 @@
     "description": "창술사는 상황에 맞게 스탠스를 변경할 수 있는 클래스입니다. 변형 창을 사용해 주변에 위치한 적들을 쓸어버릴 수 있는 난무 스탠스, 날카로운 창으로 순간 높은 피해를 줄 수 있는 집중 스탠스를 사용해 전장의 적들을 단숨에 제압할 수 있습니다.",
     "identity": "듀얼 스탠스",
     "weapon": "창",
-    "classImageUrl": "https://w.namu.la/s/e069b4d5a150f0c0097a6638038eaab9a7946adb47e3e1e20c1af0cd6a338ec2ab2aa2ecaba7a0075c74319b2200b4bcc6a2be12c9d3ac93e2e0ccf0f1ea3272c3dbfd91fdc6090bcc40c319c14664c347457d94f8fd69e281a95de6d8a2f34f034484834d32dc0c718d45ff3a688e5e",
-    "classLogoUrl": "https://w.namu.la/s/e62aff385771e90791a65b15a0bc1409dda0aab50214789b2ec986bd48e31b4f184b7a14b39ad0cb325c294b6594c6b121fc4bfbc3875a1708d5f4c5e44c14f27eb13f65e0aabba18b9a7d1fe69231a7e299e8b8132dc02d108ce3c9d544236c",
-    "affiliationUrl": "https://w.namu.la/s/63f744197cb3d04ed7819cf3cfcaf43d4203f7c4fabf32ad08c864f5cad4044103cefffaa6ff42a12e0da8cac9201453357f3fbcd4017be2f0ebf35b2be056967f0b7866dec16e29652e2d5548230d6a9137ef851cdcd0b23b9ea0d312d4e378"
+    "classImageUrl": "https://cdn-lostark.game.onstove.com/uploadfiles/banner/10589c79ef044bf99c1e7aa3534f1eaa.jpg",
+    "classLogoUrl": "https://cdn-lostark.game.onstove.com/2018/obt/assets/images/common/thumb/emblem_lance_master.png",
+    "youtubeThumbUrl": "https://i.ytimg.com/vi/wGs6RIcVKMM/maxresdefault.jpg",
+    "youtubeUrl": "https://youtu.be/wGs6RIcVKMM"
   },
   {
     "classId": "b5",
@@ -85,9 +93,10 @@
     "description": "스트라이커는 질풍처럼 적들을 몰아붙이는 무도가 클래스입니다. 빠른 움직임에 다양한 체술을 두루 갖추고 있기 때문에 순식간에 적을 타격한 후 화려한 공중 콤보를 이어갈 수 있으며, 강력한 엘리멘탈 스킬들을 활용해 전장의 판도를 뒤집을 수도 있습니다.",
     "identity": "엘리멘탈 버블",
     "weapon": "엘리멘탈 건틀렛",
-    "classImageUrl": "https://w.namu.la/s/27aa6f856649555efed5dcea90d3001f42fe40172b0e8830d01c70680e41b1db54a6448161f7d52087a81e96d98f4693dfd6e8a110f4e735eedf2381ae893365d025fee4fe3315b6d62dee59c0bea6984fe92a61c08ebb5ad3e443fd14f6f7299dba8f1d06a0356df47f6db95c46894f",
-    "classLogoUrl": "https://w.namu.la/s/755029fef2f8d4c283d9b350b5fd1ae3d75cf55c28af803f83e3bf29c1a4dcebfab3dace8194102497f855a1205686d7188ef2931aae7aa69eee156c7958f23af12c522f9a79d1e20c765ba2445d48402dbb3bd9865f90eeef80cf6049e1acb7",
-    "affiliationUrl": "https://w.namu.la/s/63f744197cb3d04ed7819cf3cfcaf43d4203f7c4fabf32ad08c864f5cad4044103cefffaa6ff42a12e0da8cac9201453357f3fbcd4017be2f0ebf35b2be056967f0b7866dec16e29652e2d5548230d6a9137ef851cdcd0b23b9ea0d312d4e378"
+    "classImageUrl": "https://cdn-lostark.game.onstove.com/uploadfiles/banner/dc0c46944ed34991b59f5f33e87c11e9.jpg",
+    "classLogoUrl": "https://cdn-lostark.game.onstove.com/2018/obt/assets/images/common/thumb/emblem_battle_master_male.png",
+    "youtubeThumbUrl": "https://i.ytimg.com/vi/TZfZBxYG71c/maxresdefault.jpg",
+    "youtubeUrl": "https://youtu.be/TZfZBxYG71c"
   },
   {
     "classId": "c1",
@@ -95,9 +104,10 @@
     "description": "데빌헌터는 세 가지 총기를 사용하여 빠르게 움직이며 스타일리쉬한 전투를 펼치는 원거리 클래스 입니다. 대상과의 거리, 혹은 공격하고자 하는 범위에 따라 그에 알맞은 스탠스를 선택하여 더블 핸드건, 샷건, 라이플로 가장 효과적인 전투를 만들어 낼 수 있습니다.",
     "identity": "퀵 스탠스",
     "weapon": "샷건 / 더블 핸드건 / 라이플",
-    "classImageUrl": "https://w.namu.la/s/cc524349e6514ad5cad058cb99ea2134e380f0d470e1d4a44f4a9c9e391507a164d8caade34f8b4c9f3661faece6c4da02223f1b98740e59b1079dff3ef18d3b555d20317465375380f6630261e4d583934d8fa2205b4f7f376f9d6908edcdbaa970cf3c27ea4aacb3a0e2e9b72546f3",
-    "classLogoUrl": "https://w.namu.la/s/1b15ad39a7486aeaabdab57d5b417a9f978f7e6a517459bc12f223fcd5275c0ce67b23ccccd8fd1e3c651862d311b47ef3b254112d1c9600b5d391a0bd315f1af1b780f859e3e2d20e36f53634b545c1a5855802add90fb1fa622f5332b61553",
-    "affiliationUrl": "https://w.namu.la/s/c791bafa534bee3dac18b06036e37c9ab74e64f74d7c1d192a6b3412d84e6ae9aa59b464d3ccf4e61b324bbe7c9c0875b613d427cb09e9cdd29ad04e10685a0c05a98493923a144873343977353377136b552325b5fc10a2acd1087809646d1a"
+    "classImageUrl": "https://cdn-lostark.game.onstove.com/uploadfiles/banner/636391680591219207.jpg",
+    "classLogoUrl": "https://cdn-lostark.game.onstove.com/2018/obt/assets/images/common/thumb/emblem_devil_hunter.png",
+    "youtubeThumbUrl": "https://i.ytimg.com/vi/EesjAG3gpd8/maxresdefault.jpg",
+    "youtubeUrl": "https://youtu.be/EesjAG3gpd8"
   },
   {
     "classId": "c2",
@@ -105,9 +115,10 @@
     "description": "블래스터는 거대 메카닉 런처와 여러가지 특수 중화기를 사용하는 막강한 화력과 폭발성 광역 공격에 특화된 원거리 클래스 입니다. 적들의 공격을 버텨내며 광역 딜링하는 스타일로 기동성은 떨어지는 편이지만 중갑을 착용하여 원거리 클래스 중에는 높은 방어력을 보유하고 있으며, 각종 중화기를 이용한 파괴력이 이러한 단점을 모두 상쇄시킵니다.",
     "identity": "포격 모드",
     "weapon": "메카닉 런처",
-    "classImageUrl": "https://w.namu.la/s/8327c77e343902d23042324c2377d1c96921e2b6defff1261492cc58c80032b011f9dba0ca4fa6a339692c0716d8ed187fd9e01f3be96230f691ad7e7e09e24bf2f49647def234506dffaf3dfe696b979785cdda0362d76867e727b886427d8586c51d8c9ba2ab19c9ec47a465b2c013",
-    "classLogoUrl": "https://w.namu.la/s/3be70afda51d601bd881e59593797eeef7727a248c647c571908ffe1362f7d6c8eeabd565f2d9b91bea79b491b2c9c1f41fe7458c8d430d044898de064ebadbdfed6349ad1efa1865e9c838986d5883bcb2dd4e8bb8adf7cffbbfb5556d9058b",
-    "affiliationUrl": "https://w.namu.la/s/c791bafa534bee3dac18b06036e37c9ab74e64f74d7c1d192a6b3412d84e6ae9aa59b464d3ccf4e61b324bbe7c9c0875b613d427cb09e9cdd29ad04e10685a0c05a98493923a144873343977353377136b552325b5fc10a2acd1087809646d1a"
+    "classImageUrl": "https://cdn-lostark.game.onstove.com/uploadfiles/banner/636391682383379598.jpg",
+    "classLogoUrl": "https://cdn-lostark.game.onstove.com/2018/obt/assets/images/common/thumb/emblem_blaster.png",
+    "youtubeThumbUrl": "https://i.ytimg.com/vi/VkGSg9O-stc/maxresdefault.jpg",
+    "youtubeUrl": "https://youtu.be/VkGSg9O-stc"
   },
   {
     "classId": "c3",
@@ -115,9 +126,10 @@
     "description": "호크아이는 민첩하게 움직이며 기계 활과 특수 화살로 적을 공격하는 명사수 입니다. 민첩한 이동기를 활용한 생존력이 우수하며 이를 바탕으로 비교적 긴 시간동안 안정적인 전투를 펼칠 수 있습니다. 또한 다양한 상태이상 스킬과 은신을 활용하여 적의 허점을 노리는 전투가 가능합니다.",
     "identity": "실버호크 소환",
     "weapon": "활",
-    "classImageUrl": "https://w.namu.la/s/140494241b18892f0203ec3704f5516b8d6cd4262eb18b3053ce2f7f04d6046e4f05907eec9b12b7e5aa40b3cfa605b41251dc30da60113632dd39a0e60ff45f3e62a5690c15dcf78876f6076518de60a041962746df6c3799875f738a3a5dce15e5f4f97c1e60bdb425c6f21613708a",
-    "classLogoUrl": "https://w.namu.la/s/0002b255e06c3107cb62ea628a805f4cf5049f59652dba8133c8dc74d16272de30fdea4af8d7ca45ee5ff6af8ec504770f7d10c8772fb974f7f9eb42f92de77a815f47391047e232230acd580df8ddeb50e6839e7679ca5b70029a50246ab167",
-    "affiliationUrl": "https://w.namu.la/s/c791bafa534bee3dac18b06036e37c9ab74e64f74d7c1d192a6b3412d84e6ae9aa59b464d3ccf4e61b324bbe7c9c0875b613d427cb09e9cdd29ad04e10685a0c05a98493923a144873343977353377136b552325b5fc10a2acd1087809646d1a"
+    "classImageUrl": "https://cdn-lostark.game.onstove.com/uploadfiles/banner/636597237790270963.jpg",
+    "classLogoUrl": "https://cdn-lostark.game.onstove.com/2018/obt/assets/images/common/thumb/emblem_hawk_eye.png",
+    "youtubeThumbUrl": "https://i.ytimg.com/vi/ZSO0V_OIUPQ/maxresdefault.jpg",
+    "youtubeUrl": "https://youtu.be/ZSO0V_OIUPQ"
   },
   {
     "classId": "c4",
@@ -125,9 +137,10 @@
     "description": "한 자루의 서브 머신건을 지닌 채, 한 몸 같은 드론과 함께 전장으로 나서는 스카우터는 기동성과 파괴력을 겸비한 전천후 전투원입니다. 드론에게 원격 명령을 내려 먼 거리의 적들을 견제함과 동시에, 서브 머신건으로 빠르게 주변의 적을 정리하며 잡힐 듯 말 듯 날렵한 모습으로 전장을 활보합니다.",
     "identity": "하이퍼 싱크",
     "weapon": "서브머신건 / 드론",
-    "classImageUrl": "https://w.namu.la/s/4440d6fa56a7acd5fff28339e0ac66649d0141e9320d131de77aa751df8809d3b878b0d56ba7b6081a23d3a3b22d47780e15601b7fd9fbf329385924d6fc3c94209b0a13490a223daf200f08c1532dd546bae09f908f79cfa50a76fa6539cdd8cc49616ef7396f2754579a3cc5857dc6",
-    "classLogoUrl": "https://w.namu.la/s/7cc8fc8f4648dd86778437201a392241d2a5e3e8447178d497570a6d4a3fd02db64f257b5812a87b7f8916a202d243395f800848baef786e4b22c7613aec361a8be139ef8370438d9a514d65d09365a83170bc766dd7db3900497c4b8f9c9388",
-    "affiliationUrl": "https://w.namu.la/s/c791bafa534bee3dac18b06036e37c9ab74e64f74d7c1d192a6b3412d84e6ae9aa59b464d3ccf4e61b324bbe7c9c0875b613d427cb09e9cdd29ad04e10685a0c05a98493923a144873343977353377136b552325b5fc10a2acd1087809646d1a"
+    "classImageUrl": "https://cdn-lostark.game.onstove.com/uploadfiles/banner/343340af09084243972c022fad8e3e41.jpg",
+    "classLogoUrl": "https://cdn-lostark.game.onstove.com/2018/obt/assets/images/common/thumb/emblem_scouter.png",
+    "youtubeThumbUrl": "https://i.ytimg.com/vi/lmsXXc7WzHs/maxresdefault.jpg",
+    "youtubeUrl": "https://youtu.be/lmsXXc7WzHs"
   },
   {
     "classId": "c5",
@@ -135,9 +148,10 @@
     "description": "건슬링어는 세 가지 총기를 사용하여 빠르게 움직이며 스타일리쉬한 전투를 펼치는 원거리 클래스 입니다. 대상과의 거리, 혹은 공격하고자 하는 범위에 따라 그에 알맞은 스탠스를 선택하여 더블 핸드건, 샷건, 라이플로 가장 효과적인 전투를 만들어 낼 수 있습니다.",
     "identity": "퀵 스탠스",
     "weapon": "샷건 / 더블 핸드건 / 라이플",
-    "classImageUrl": "https://w.namu.la/s/03f98cd9c7d49eb5fec7d9d32846da835c1bfcf83cd14367587472fdcfd4bf9f845ad517dbaa536c6e49383888629daaaf396f8db6b3387eec6f5354e651c15d379078a0d4861d6aad0810bc9790ebf99b23ac998540fccd5e02b188fe8a450230440c56edd5de27a4d43d5cc20cf2cc",
-    "classLogoUrl": "https://w.namu.la/s/456f07b59a52229ad15712689118d4ed25bb41c8ab167f16602924c324b15f3b600cd72fe7565d07ac0d25e3837130c59e743e5e38562873cad28badb08dc9515918ddbc8f72549d86eb3a9b41dce32acfd4a0aa10ed6cae7cdd593c04adf908",
-    "affiliationUrl": "https://w.namu.la/s/c791bafa534bee3dac18b06036e37c9ab74e64f74d7c1d192a6b3412d84e6ae9aa59b464d3ccf4e61b324bbe7c9c0875b613d427cb09e9cdd29ad04e10685a0c05a98493923a144873343977353377136b552325b5fc10a2acd1087809646d1a"
+    "classImageUrl": "https://cdn-lostark.game.onstove.com/uploadfiles/banner/73a823033de7497e9ea6f633c3052c87.jpg",
+    "classLogoUrl": "https://cdn-lostark.game.onstove.com/2018/obt/assets/images/common/thumb/emblem_devil_hunter_female.png",
+    "youtubeThumbUrl": "https://i.ytimg.com/vi/R5iQ32XxRKo/maxresdefault.jpg",
+    "youtubeUrl": "https://youtu.be/R5iQ32XxRKo"
   },
   {
     "classId": "d1",
@@ -145,9 +159,10 @@
     "description": "바드는 성스러운 하프를 이용하여 적을 공격하거나 아군을 서포트하는 원거리 서포트형 클래스입니다. 날카로운 음율로 적을 공격하기도 하고, 아름다운 운율로 아군을 치유하며, 파티에서는 선봉보다는 후방에서 아군을 돕거나 각종 버프를 이용해 아군을 지원하는 역할을 수행할 수 있습니다. 공격력은 다소 낮은 편이지만 아군을 지원하는 능력이 매우 뛰어나기 때문에 파티에서 꼭 필요로 하는 클래스 입니다.",
     "identity": "세레나데",
     "weapon": "리아네 하프",
-    "classImageUrl": "https://w.namu.la/s/ab5134f524e6bf0b560f8ae04baeb22cae5a9c40b2bd9e9792416d5cc89645c822570d8fd50c6c65dd073ca058f37e4eaf5617f8a5eb22d5d04c4c32fff1793bfb298663bfe26236d2efdc7e1c2e0043b8e89d720772895068dfef00e4d11314e2e8472d0fb31a7271d3f70f9520239b",
-    "classLogoUrl": "https://w.namu.la/s/1bcb63264bb9f85479a13e97f7da79716c9b9889f51fb1dd32d72fa4bd0ac662cfa96a627972b0583afb9de2b1aded6fafebdb4a78c412b965e5d9870db10b7d64f980c6789ff66259b49ea95771028eca0b18eaaf43a946d9d2fceef01c1e71",
-    "affiliationUrl": "https://w.namu.la/s/a4566b2588975af59c6b91e59fa8a741e3edfc8321ca85d13d07f2204f711bdcf6a8bd35c7baa8807a1cc740bce8151aae6735dff52d5fd5baf4ad9a327a050db18a9ec66c8f67f64c4571276160679e27eaff9ea850120ca3ed44005103e739"
+    "classImageUrl": "https://cdn-lostark.game.onstove.com/uploadfiles/banner/636391681057226492.jpg",
+    "classLogoUrl": "https://cdn-lostark.game.onstove.com/2018/obt/assets/images/common/thumb/emblem_bard.png",
+    "youtubeThumbUrl": "https://i.ytimg.com/vi/SgpU3C_GdjY/maxresdefault.jpg",
+    "youtubeUrl": "https://youtu.be/SgpU3C_GdjY"
   },
   {
     "classId": "d2",
@@ -155,9 +170,10 @@
     "description": "서머너는 보조 딜러나 탱커 역할을 담당할 수 있는 다양한 정령들과 함께 전투를 전개해 나가는 원거리 클래스입니다. 체력과 방어력이 낮아서 일정거리 이상을 유지하며 전투를 하는 것이 좋고, 만약 적들에게 거리를 잡히면 치명적일 수 있으나, 서머너가 가진 다양한 마법 스킬과 정령들을 적절히 조합한다면 위협적인 상황은 허용조차 되지 않을 것입니다.",
     "identity": "고대 정령 소환",
     "weapon": "매직 스태프",
-    "classImageUrl": "https://w.namu.la/s/fc59532cfb15f1e00a5fd4738317a8ea0ada4baa7c9ad635f6607571a15faf8ec2e242e477ab5f1e1390ba5e574d606439b53322e1210203eb533103835b292867d0da3ec329b5f5e09e81133d65a07b447e9b9adf7b30696877733fc6f02ff0112976ca9752caf6c6e270f598f3afa6",
-    "classLogoUrl": "https://w.namu.la/s/e8f1b0db6d9b5937d8e3f66f6a313d6909208aa85edd82bc41a9d384d5fd5cbdebb6d54b5a3b2d894d5f26b7254008c404416ef643458287593b74aba92831f88dda75c1d53a0bdc672425a51ce90783d1f460aa47e22a33f0252b2f702ecfba",
-    "affiliationUrl": "https://w.namu.la/s/a4566b2588975af59c6b91e59fa8a741e3edfc8321ca85d13d07f2204f711bdcf6a8bd35c7baa8807a1cc740bce8151aae6735dff52d5fd5baf4ad9a327a050db18a9ec66c8f67f64c4571276160679e27eaff9ea850120ca3ed44005103e739"
+    "classImageUrl": "https://cdn-lostark.game.onstove.com/uploadfiles/banner/636391683605795721.jpg",
+    "classLogoUrl": "https://cdn-lostark.game.onstove.com/2018/obt/assets/images/common/thumb/emblem_summoner.png",
+    "youtubeThumbUrl": "https://i.ytimg.com/vi/yO35t_nvz34/maxresdefault.jpg",
+    "youtubeUrl": "https://youtu.be/yO35t_nvz34"
   },
   {
     "classId": "d3",
@@ -165,9 +181,10 @@
     "description": "아르카나는 마법사 클래스로 체력과 방어력이 약해 위험에 쉽게 노출 되기도 하는 반면, 현란하고 빠른 몸놀림으로 중거리 전투에서 강력한 모습을 보이며, 다이나믹한 전투로 상대를 유린 할 수도 있는 클래스 입니다. 스킬 한방 한방이 강력하진 않지만, 적에게 카드의 마력이 담긴 스택트 효과를 쌓고, 루인 스킬을 이용하여 스택트 효과를 폭발시킴으로 증폭된 대미지를 선사할 수 있습니다.",
     "identity": "카드 덱",
     "weapon": "마법덱",
-    "classImageUrl": "https://w.namu.la/s/c10e1756f0deecc8db27495b4ed7ef5d67b5187c4f2a08372849d74bef493464a2271aa5fa5b34da798c1f3361b7fdd85a061dd5f98f6fe8dc1d904a3f7bee1df55997edb05b7c55ac4ded984d624f45b54fb533f3ff37ab9da10b0623500fe02d4700ef29e5c5c82622830ddd2bf150",
-    "classLogoUrl": "https://w.namu.la/s/330e447c4a84c69acd4f8e5bfdc475cd8209a44c611bd29cae81d5eabfd9df38f484630fde114071dfa405c776091fc2abf256618b5e2676ec9b7cefa919b1f045d4210917434b93f52e1779ed7b4c137bed91ebc52cbaaef548edcabfc4efd4",
-    "affiliationUrl": "https://w.namu.la/s/a4566b2588975af59c6b91e59fa8a741e3edfc8321ca85d13d07f2204f711bdcf6a8bd35c7baa8807a1cc740bce8151aae6735dff52d5fd5baf4ad9a327a050db18a9ec66c8f67f64c4571276160679e27eaff9ea850120ca3ed44005103e739"
+    "classImageUrl": "https://cdn-lostark.game.onstove.com/uploadfiles/banner/636391684139297762.jpg",
+    "classLogoUrl": "https://cdn-lostark.game.onstove.com/2018/obt/assets/images/common/thumb/emblem_arcana.png",
+    "youtubeThumbUrl": "https://i.ytimg.com/vi/6oXB7Cxm5JM/hqdefault.jpg",
+    "youtubeUrl": "https://youtu.be/6oXB7Cxm5JM"
   },
   {
     "classId": "d4",
@@ -175,9 +192,10 @@
     "description": "소서리스는 세 가지 원소를 기본으로 한 강력한 마법을 다루는 클래스입니다. 소서리스는 광역 마법을 사용해 다수의 적을 손쉽게 처리할 수 있으며, 캐스팅 마법으로 강력한 적에게 높은 피해를 선사할 수도 있습니다. 신비한 마력 게이지를 획득해 얻을 수 있는 아이덴티티를 잘 활용한다면 전장을 지배하는 영웅이 될 수 있습니다.",
     "identity": "마력 방출 / 점멸",
     "weapon": "롱 스태프",
-    "classImageUrl": "https://w.namu.la/s/0b1d5b1201a18619d795c1124933e0931fb622ffc1c88c1d526a766cf452f55c34b70a8b05dfc29e279c5bdf8e9b2f1d1d70598e51023f6cd0b2c3d92f4e7670710a81a3a344f82b7d3f73be99b6923ca2215af0db2f1c4ee9f307e37e8bf6f06db60b07fb3f834feb5af836d3551ef5",
-    "classLogoUrl": "https://w.namu.la/s/0d19d455b02fd24d10af1ee7a46e298590836b26df65629270de1ca3952c7dbb50bb2bd0622a0e8eefde036a00fd4a1eccf4bdca525a372e6b649af821c1c79d48170045b16510f25f66045d33f253fada1620ee61143e77e1efecff347d6397",
-    "affiliationUrl": "https://w.namu.la/s/a4566b2588975af59c6b91e59fa8a741e3edfc8321ca85d13d07f2204f711bdcf6a8bd35c7baa8807a1cc740bce8151aae6735dff52d5fd5baf4ad9a327a050db18a9ec66c8f67f64c4571276160679e27eaff9ea850120ca3ed44005103e739"
+    "classImageUrl": "https://cdn-lostark.game.onstove.com/uploadfiles/banner/efa89e3009234753953a113af34dbcf8.jpg",
+    "classLogoUrl": "https://cdn-lostark.game.onstove.com/2018/obt/assets/images/common/thumb/emblem_elemental_master.png",
+    "youtubeThumbUrl": "https://i.ytimg.com/vi/apaNS4MDf18/maxresdefault.jpg",
+    "youtubeUrl": "https://youtu.be/apaNS4MDf18"
   },
   {
     "classId": "e1",
@@ -185,9 +203,10 @@
     "description": "데모닉은 거대한 무기 ‘데모닉 웨폰’을 사용하여 적들을 무참히 베는데 특화된 암살자입니다. 절제를 위주로 싸우는 블레이드와는 달리, 혼돈의 힘을 적극적으로 해방해 싸우는 것이 특징입니다. 스킬이 적중하여 잠식 게이지가 차면 내재된 악마성이 완전히 해방, 혼돈의 힘을 사용할 수 있습니다.",
     "identity": "악마화",
     "weapon": "데모닉웨폰",
-    "classImageUrl": "https://w.namu.la/s/1d0dfb8bc86e070ccb050f61615047ca298b751512ac4523d4dd5fea7c3fd916a0a6b7f886b8af20c9be25dd7d281e12e5d2856ad8783d48baf85b9df8d163b26e00112e93d6188a0d57a49614c54b5c5cff4a4cb5e9e08acd682aed308ed77a1d7420d73a6ad12cb04ba284d2a34c8d",
-    "classLogoUrl": "https://w.namu.la/s/afa43a35c02bb1db5bb17091d64771c51d92f5b7f370bd8069094176c382d57082d3d0e1098a541b9d51009e0d884422b2883baf54bd2ea46047565350aa89147e086912f62c64e632fa2500b822e19f7a4508e7788195801711b10ead461c7d",
-    "affiliationUrl": "https://w.namu.la/s/94d64a9cd5e95f39679dc2f0b8e3bafc3513485df677eb40c95a62d1aa7e97a689f06e24a0d519027c36c964d5a7344d3c3f12492088d823261ecb67ab136477feadbc714b4fea235763494e1758c9646973b2fa53a54789f28ea9f0386df8bf"
+    "classImageUrl": "https://cdn-lostark.game.onstove.com/uploadfiles/banner/b282a9fe1d2148848c930b308dbda893.jpg",
+    "classLogoUrl": "https://cdn-lostark.game.onstove.com/2018/obt/assets/images/common/thumb/emblem_demonic.png",
+    "youtubeThumbUrl": "https://i.ytimg.com/vi/XzLU1phP7WY/maxresdefault.jpg",
+    "youtubeUrl": "https://youtu.be/XzLU1phP7WY"
   },
   {
     "classId": "e2",
@@ -195,9 +214,10 @@
     "description": "블레이드는 쌍검과 장검, 총 세개의 검을 사용하는 암살자입니다. 항상 차분한 이성을 유지하며, 날렵한 쌍검과 묵직한 장검에 혼돈의 힘을 담아 빠르고 절도 있게 적들을 공격합니다. 특히, 쌍검과 장검을 활용한 연계 공격은 숨쉴 틈 없는 공격을 난사해 적을 제압합니다.",
     "identity": "블레이드 아츠",
     "weapon": "검",
-    "classImageUrl": "https://w.namu.la/s/1c459dfb9392319ca6af4df5a5980df525f32cfb848978460b316f2e61390876ada3e2688d9564722fd2536ab612bf83f0fff67deb65a70d3b763d839c6fe35c02d14427393f7537dedf2259eb576672277ecdd248afc37c255601998c4033648bd41ead2129a50e6818943dc631add1",
-    "classLogoUrl": "https://w.namu.la/s/562ba54f1cd71463bc371400200f040b9a3ae3ff8caeaa6d3689039db15f46fbb1712ebcf964d1987950ec169326cb62d5464f7cf7abc8f47cf4e980a8ab15d4891480f71f2e0d02cb2c9fe65cd370dcc9370df56edb0df49dc3043472fafb3d",
-    "affiliationUrl": "https://w.namu.la/s/94d64a9cd5e95f39679dc2f0b8e3bafc3513485df677eb40c95a62d1aa7e97a689f06e24a0d519027c36c964d5a7344d3c3f12492088d823261ecb67ab136477feadbc714b4fea235763494e1758c9646973b2fa53a54789f28ea9f0386df8bf"
+    "classImageUrl": "https://cdn-lostark.game.onstove.com/uploadfiles/banner/ef46160ffe474e4dbbb80d34325723ab.jpg",
+    "classLogoUrl": "https://cdn-lostark.game.onstove.com/2018/obt/assets/images/common/thumb/emblem_blade.png",
+    "youtubeThumbUrl": "https://i.ytimg.com/vi/AnAMIuh6wqo/maxresdefault.jpg",
+    "youtubeUrl": "https://youtu.be/AnAMIuh6wqo"
   },
   {
     "classId": "e3",
@@ -205,9 +225,10 @@
     "description": "리퍼는 단검과 그림자 스킬을 사용하는 암살자 클래스입니다. 리퍼는 날렵한 움직임을 이용해 적을 습격하여, 적에게 공포를 선사합니다. 다양한 독을 사용하여 지속적인 피해를 줄 수도 있고, 은신을 통해 은밀하게 적의 배후로 이동해 강력한 공격을 할 수도 있습니다.",
     "identity": "페르소나",
     "weapon": "단검",
-    "classImageUrl": "https://w.namu.la/s/2457054b8249d058ae8edc7a6e2f859c9d47aa9f64807675beb32b7510e42c7c99f2c45aee1a5028b5dd19524ca1052dc91911e0b60c5a4749636151aaaf6d37e610c2f8d121009c9dcbf461542cfdcdcb3837b6309f34356b0a36581deaeb5c135be60550d38bae40fcf40397d1c384",
-    "classLogoUrl": "https://w.namu.la/s/b49638ab2a9ccb805e2e4011008d560633bf57c51da0d961ae9241ee8b873984ff64749cab9d72316ab6f8a4444d1165c2d48bcda6a32e6292634f236e029ea9b9c923e221481cc239b2d945555256f6c605942d4d4082f0287f1a6a081b3f12",
-    "affiliationUrl": "https://w.namu.la/s/94d64a9cd5e95f39679dc2f0b8e3bafc3513485df677eb40c95a62d1aa7e97a689f06e24a0d519027c36c964d5a7344d3c3f12492088d823261ecb67ab136477feadbc714b4fea235763494e1758c9646973b2fa53a54789f28ea9f0386df8bf"
+    "classImageUrl": "https://cdn-lostark.game.onstove.com/uploadfiles/banner/2d58891e0b8d45b7864cca7193864300.jpg",
+    "classLogoUrl": "https://cdn-lostark.game.onstove.com/2018/obt/assets/images/common/thumb/emblem_reaper.png",
+    "youtubeThumbUrl": "https://i.ytimg.com/vi/CWqVheKN3Qw/maxresdefault.jpg",
+    "youtubeUrl": "https://youtu.be/CWqVheKN3Qw"
   },
   {
     "classId": "f1",
@@ -215,9 +236,10 @@
     "description": "도화가는 붓에서 나오는 환영의 힘으로 전략적 운용이 가능한 서포터형 클래스입니다. 붓과 먹물로 적을 공격하거나 그림을 통해 다양한 신수를 불러낼 수 있습니다. 공격력은 다소 낮은 편이지만 환영의 힘으로 아군을 위험에서 구해 전장의 후방을 든든하게 지원해 주는 클래스입니다.",
     "identity": "저무는 달 / 떠오르는 해",
     "weapon": "붓",
-    "classImageUrl": "https://w.namu.la/s/c75bcdf900ed2fee187c9f8abea57c335c4ed9b8e604be40a326ed7ea21924938c45ad12ccb83fb75c495706fa4adf8f963ec99a6a7084e25f0aa8ce3cc3d3c5f4ae25178de20d70281c135619c34148fd00e136400178b73b4d3191c7f24de87569cd3852e376b25b79b3a843278651",
-    "classLogoUrl": "https://w.namu.la/s/efcc81ff39754a38452680357a2de6242582d82fad7c6fb3c998fec96b95c40bc9b3e392c761d875e64a6bf0eb6e1b109bde0ae2bbebf9077b17004f21aa8eaf050d639b355d763415a789fad8a49b30e7feb152b18fa8990ba0ce2a8c776c75",
-    "affiliationUrl": "https://w.namu.la/s/ca2dd3003eda1312c34c8a1ebaac5b2779e674ca23aeaadeff1c1e9bf45399efa4ae8775b6701f83409f44de9fc50c4ffb103d25a537aed41968801b264ec0b1e02111cbe1486525c4db9b2db280d1659ea3afe8bec2995b545aead07f05969d"
+    "classImageUrl": "https://cdn-lostark.game.onstove.com/uploadfiles/banner/440352238d0b4902910db8e45bd3871a.jpg",
+    "classLogoUrl": "https://cdn-lostark.game.onstove.com/2018/obt/assets/images/common/thumb/emblem_yinyangshi.png",
+    "youtubeThumbUrl": "https://i.ytimg.com/vi/kGWy3crwLGM/maxresdefault.jpg",
+    "youtubeUrl": "https://youtu.be/kGWy3crwLGM"
   },
   {
     "classId": "f2",
@@ -225,8 +247,9 @@
     "description": "기상술사는 신비로운 환영의 힘으로 기상을 다루고 우산을 활용하여 적을 제압하는 클래스입니다. 변덕스러운 날씨를 이용해 특정 위치에 있는 적을 공략하거나, 우산을 접고 펼치는 화려한 움직임으로 근거리 적들을 제압하는 전투를 할 수 있습니다.",
     "identity": "여우비",
     "weapon": "우산",
-    "classImageUrl": "https://w.namu.la/s/e96ef7469931e07bde8a6ecb307a49d446c4da469b019c59ef9edcdc08f82333bc86d1d6c43a37f9fcdda469c0b5208db0cfefbdc455beb3aa97a15990d2012cd3502e22de99dbf692b386fbb33b5029ee8ab5ed9358aa21d672d5738bf9bc697659e723bd81eaadd979c68d88824faa",
-    "classLogoUrl": "https://w.namu.la/s/9227ddba4296f40492bf524ced658b10dff74321d95e715632b157b1b2d21e912eefa36e0fd45635c5ff853f87e5aabe7b5185cfad5d10f3c2dd0d129a5e88c64ea57fbc95abf8c2c78a9e709f266455dc9c5cb254c59f25e3f8c97118178926",
-    "affiliationUrl": "https://w.namu.la/s/ca2dd3003eda1312c34c8a1ebaac5b2779e674ca23aeaadeff1c1e9bf45399efa4ae8775b6701f83409f44de9fc50c4ffb103d25a537aed41968801b264ec0b1e02111cbe1486525c4db9b2db280d1659ea3afe8bec2995b545aead07f05969d"
+    "classImageUrl": "https://cdn-lostark.game.onstove.com/uploadfiles/banner/ad4d5695547c4a079ed91d0d26c82eb0.jpg",
+    "classLogoUrl": "https://cdn-lostark.game.onstove.com/2018/obt/assets/images/common/thumb/emblem_weather_artist.png",
+    "youtubeThumbUrl": "https://i.ytimg.com/vi/jmPocccCrT8/maxresdefault.jpg",
+    "youtubeUrl": "https://youtu.be/jmPocccCrT8"
   }
 ]

@@ -8,7 +8,7 @@
 
         <variable
             name="viewModel"
-            type="com.seungho.android.myapplication.lostarkclass.ClassDetailViewModel" />
+            type="com.seungho.android.myapplication.lostarkclass.viewmodels.ClassDetailViewModel" />
 
         <variable
             name="callback"
@@ -18,7 +18,7 @@
     <androidx.coordinatorlayout.widget.CoordinatorLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="?attr/colorSurface"
+        android:background="@color/black"
         android:fitsSystemWindows="true"
         tools:context="com.seungho.android.myapplication.lostarkclass.MainActivity"
         tools:ignore="MergeRootFrame">
@@ -43,13 +43,13 @@
                 app:contentScrim="?attr/colorSurface"
                 app:layout_scrollFlags="scroll|exitUntilCollapsed"
                 app:statusBarScrim="?attr/colorSurface"
-                app:title="@{viewModel.classs.name}"
+                app:title="@{viewModel.classs.className}"
                 app:titleEnabled="false"
                 app:toolbarId="@id/toolbar">
 
                 <ImageView
                     android:id="@+id/detail_image"
-                    imageFromUrl="@{viewModel.classs.imageUrl}"
+                    imageFromUrl="@{viewModel.classs.classImageUrl}"
                     android:layout_width="match_parent"
                     android:layout_height="278dp"
                     android:contentDescription="Image of class"
@@ -91,33 +91,24 @@
                     android:layout_marginStart="8dp"
                     android:layout_marginEnd="8dp"
                     android:gravity="center_horizontal"
-                    android:text="@{viewModel.classs.name}"
+                    android:text="@{viewModel.classs.className}"
                     android:textAppearance="?attr/textAppearanceHeadline5"
+                    android:textColor="@color/white"
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toTopOf="parent"
                     tools:text="기상술사" />
 
                 <ImageView
-                    android:id="@+id/class_detail_affiliation"
-                    imageFromUrl="@{viewModel.classs.affiliationUrl}"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
+                    android:id="@+id/class_detail_logo"
+                    imageFromUrl="@{viewModel.classs.classLogoUrl}"
+                    android:layout_width="46dp"
+                    android:layout_height="46dp"
                     android:layout_marginTop="8dp"
-                    app:layout_constraintEnd_toStartOf="@id/class_detail_logo"
+                    app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toBottomOf="@id/class_detail_name"
                     tools:src="@drawable/testlogo" />
-
-                <ImageView
-                    android:id="@+id/class_detail_logo"
-                    imageFromUrl="@{viewModel.classs.classLogoUrl}"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:src="@drawable/testlogo"
-                    app:layout_constraintEnd_toEndOf="parent"
-                    app:layout_constraintStart_toEndOf="@id/class_detail_affiliation"
-                    app:layout_constraintTop_toTopOf="@id/class_detail_affiliation" />
 
                 <TextView
                     android:id="@+id/class_detail_identity"
@@ -127,11 +118,12 @@
                     android:layout_marginTop="16dp"
                     android:layout_marginEnd="8dp"
                     android:gravity="center_horizontal"
+                    android:text="@{viewModel.classs.identity}"
                     android:textColor="?attr/colorAccent"
                     android:textStyle="bold"
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintStart_toStartOf="parent"
-                    app:layout_constraintTop_toBottomOf="@id/class_detail_affiliation"
+                    app:layout_constraintTop_toBottomOf="@id/class_detail_logo"
                     tools:text="여우비" />
 
                 <TextView
@@ -142,26 +134,28 @@
                     android:layout_marginTop="8dp"
                     android:layout_marginEnd="8dp"
                     android:gravity="center_horizontal"
+                    android:text="@{viewModel.classs.weapon}"
+                    android:textColor="@color/white"
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toBottomOf="@id/class_detail_identity"
                     tools:text="우산" />
 
                 <TextView
-                    android:layout_width="0dp"
-                    android:layout_height="wrap_content"
                     android:id="@+id/class_detail_description"
                     style="?android:attr/textAppearanceMedium"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
                     android:layout_marginStart="8dp"
                     android:layout_marginTop="8dp"
                     android:layout_marginEnd="8dp"
-                    android:minHeight="555dp"
-                    tools:text="여기에 직업 설명이 들어갑니다"
+                    android:minHeight="315dp"
+                    android:textColor="@color/white"
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@id/class_detail_weapon"
                     app:renderHtml="@{viewModel.classs.description}"
-                    app:layout_constraintTop_toBottomOf="@id/class_detail_weapon" />
-
+                    tools:text="여기에 직업 설명이 들어갑니다" />
 
             </androidx.constraintlayout.widget.ConstraintLayout>
 
@@ -175,7 +169,7 @@
             android:layout_margin="16dp"
             android:onClick="@{() -> callback.add(viewModel.classs)}"
             android:tint="@android:color/white"
-            app:isGone="@{viewModel.isFavorited}"
+            app:isGone="@{viewModel.isClassed()}"
             app:layout_anchor="@id/appbar"
             app:layout_anchorGravity="bottom|end"
             app:srcCompat="@drawable/ic_baseline_add_24" />

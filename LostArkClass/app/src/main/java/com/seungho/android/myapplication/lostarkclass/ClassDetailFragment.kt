@@ -5,6 +5,7 @@ import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import android.widget.Toast
 import androidx.coordinatorlayout.widget.CoordinatorLayout
 import androidx.core.app.ShareCompat
 import androidx.core.widget.NestedScrollView
@@ -14,7 +15,6 @@ import androidx.fragment.app.viewModels
 import androidx.navigation.findNavController
 import androidx.navigation.fragment.navArgs
 import com.google.android.material.floatingactionbutton.FloatingActionButton
-import com.google.android.material.snackbar.Snackbar
 import com.seungho.android.myapplication.lostarkclass.data.Classs
 import com.seungho.android.myapplication.lostarkclass.databinding.FragmentClassDetailBinding
 import com.seungho.android.myapplication.lostarkclass.utills.InjectorUtils
@@ -28,11 +28,10 @@ class ClassDetailFragment: Fragment() {
         InjectorUtils.provideClassDetailViewModelFactory(requireActivity(), args.classId)
     }
 
-
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
-    ): View? {
+    ): View {
         val binding = DataBindingUtil.inflate<FragmentClassDetailBinding>(
             inflater, R.layout.fragment_class_detail, container, false
         ).apply {
@@ -42,9 +41,10 @@ class ClassDetailFragment: Fragment() {
                 override fun add(classs: Classs?) {
                     classs?.let {
                         hideAppBarFab(fab)
-                        classDetailViewModel.addClassToFavorite()
-                        Snackbar.make(root, "Added class to Favorite", Snackbar.LENGTH_LONG)
-                            .show()
+                        classDetailViewModel.addClassToSave()
+//                        Snackbar.make(root, "Added class to Favorite", Snackbar.LENGTH_LONG)
+//                            .show()
+                        Toast.makeText(context, "Added class to Favorite", Toast.LENGTH_SHORT).show()
                     }
                 }
             }
@@ -71,7 +71,7 @@ class ClassDetailFragment: Fragment() {
             toolbar.setOnMenuItemClickListener { item ->
                 when(item.itemId) {
                     R.id.action_share -> {
-                        createShareIntnet()
+                        createShareIntent()
                         true
                     }
                     else -> false
@@ -84,12 +84,12 @@ class ClassDetailFragment: Fragment() {
     }
 
     @Suppress("DEPRECATION")
-    private fun createShareIntnet() {
+    private fun createShareIntent() {
         val shareText = classDetailViewModel.classs.value.let { classs ->
             if (classs == null) {
                 ""
             } else {
-                "Check out the {classs.name} plant in the Android..."
+                "Check out the {classs.name} class in the Android..."
             }
         }
         val shareIntent = ShareCompat.IntentBuilder.from(requireActivity())
