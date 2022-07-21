@@ -9,8 +9,7 @@ class SaveClassRepository private constructor(
         saveClassDao.insertSaveClass(saveClass)
     }
 
-    suspend fun removeSaveClass(classId: String) {
-        val saveClass = SaveClass(classId)
+    suspend fun removeSaveClass(saveClass : SaveClass) {
         saveClassDao.deleteSaveClass(saveClass)
     }
 
